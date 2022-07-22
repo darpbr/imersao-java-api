@@ -5,4 +5,5 @@
 </p>
 
 Repositório criado para armazenar o codigo fonte da api criada com Spring durante a imersão JAVA da Alura.
-Projeto vinculado ao https://github.com/darpbr/imersao-java/blob/main/README.md.
+
+Projeto vinculado ao **Desafio 4** da Imersão JAVA da ALURA https://github.com/darpbr/imersao-java/blob/main/README.md.
