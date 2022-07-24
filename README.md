@@ -1,9 +1,17 @@
-# imersao-java-api
+![ImersaoJava](https://user-images.githubusercontent.com/41304141/180502973-63a87ed9-fb0b-4e77-a70b-b7543e41025a.jpg)
+
+<h1 align="center"> Imersão JAVA ALURA </h1>
 
 <p align="left">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Repositório criado para armazenar o codigo fonte da api criada com Spring durante a imersão JAVA da Alura.
+<h1 align="center"> Projeto imersao-java-api </h1>
 
-Projeto vinculado ao **Desafio 4** da Imersão JAVA da ALURA https://github.com/darpbr/imersao-java/blob/main/README.md.
+## Descrição do Projeto
+
+Projeto de criação de uma API que vai disponibilizar um endpoint para geração de figurinhas utilizando o projeto desenvolvido durante a **Imersão JAVA Alura**.
+
+## 📁 Repositório alura-sticker
+
+https://github.com/darpbr/imersao-java
