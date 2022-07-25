@@ -14,7 +14,7 @@ public class LinguagemController {
 
     @GetMapping(value = "/hello")
     public String getHello(){
-        return "Olá Mundo Spring!";
+        return "Olá Mundo Spring! Eureca!!";
     }
 
     @GetMapping("/ranking-linguagens")
